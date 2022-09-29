@@ -26,7 +26,7 @@
 
 This is a collection of ***Open Source events and Hackathons*** on a monthly basis. Students always forget the dates of Open Source event and recall after the date is over to fill the form.  🤟
 
-- [January](https://github.com/noobshubham/Open-Source-Events/edit/patch-one/README.md#-footprints-january-seedling-)
+- [January](https://github.com/noobshubham/Open-Source-Events#-footprints-january-seedling-)
 - [February](https://github.com/noobshubham/Open-Source-Events#-raising_hand_man-february-herb-)
 - [March](https://github.com/noobshubham/Open-Source-Events#-man_technologist-march-four_leaf_clover-)
 - [April](https://github.com/noobshubham/Open-Source-Events#-walking-april-bulb)
